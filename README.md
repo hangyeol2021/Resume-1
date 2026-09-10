@@ -1,13 +1,11 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=kdh.png height=150 widht=150><img src=kdh.png height=150 widht=150>
-김동회
+김한결
 
 ---
 
-소속 : 소프트웨어융합대학   
-전공 : 빅데이터 전공
-
+소속 : 정보과학대학 
+전공 : AI의료융합전공
 관심분야   
 * 생물정보학 
 * **인공지능**
@@ -21,7 +19,7 @@
 
 -------------------
 
-2020년도 1학기 강의 과목  
+2021년도 1학기 강의 과목  
 |과목|내용|학점|
 |---|---|---|
 |C 프로그래밍|C 언어 개요|3|
@@ -29,9 +27,9 @@
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
 
 
-github address: [K-DH][github]
+#github address: [K-DH][github]
 
-[github]:http://github.com/K-DH
+[github]:http://github.com/K-DH#
 
 
 
