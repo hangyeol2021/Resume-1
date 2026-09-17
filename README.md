@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=kdh.png height=150 widht=150><img src=kdh.png height=150 widht=150>
-김동회
+#<img src=kdh.png height=150 widht=150><img src=kdh.png height=150 widht=150>#
+김한결
 
 ---
 
