@@ -1,12 +1,12 @@
-# 한림대학교 소프트웨어융합대학
+# 한림대학교 정보과학대학
 ---
-#<img src=kdh.png height=150 widht=150><img src=kdh.png height=150 widht=150>#
+#<img>#
 김한결
 
 ---
 
-소속 : 소프트웨어융합대학   
-전공 : 빅데이터 전공
+소속 : 정보과학대학
+전공 : AI의료융합전공
 
 관심분야   
 * 생물정보학 
@@ -14,24 +14,20 @@
 * 의료정보학
 
 프로그래밍 언어 스킬   
-1. C
-2. Java
-3. Python
-4. R
+1. Python
+2. R
+3. Java
+
 
 -------------------
 
-2020년도 1학기 강의 과목  
-|과목|내용|학점|
-|---|---|---|
-|C 프로그래밍|C 언어 개요|3|
-|Java 프로그래밍|java 개용|3|
-|소프트웨어세미나1|최신 소프트웨어 트랜드|1|
+2021년도 1학기 강의 과목  
 
 
-github address: [K-DH][github]
 
-[github]:http://github.com/K-DH
+github address: 
+
+[github]:
 
 
 
