@@ -58,7 +58,7 @@
 - **인증·기록 저장:** AWS Cognito · API Gateway · Lambda · DynamoDB
 - **배포:** EC2 · Nginx · CloudFront · S3
 
-[소스 코드](https://github.com/hangyeol2021/focus-sense) · [실행 페이지](https://dd0vak8p8f011.cloudfront.net)
+[소스 코드](https://github.com/hangyeol2021/focus-sense) · 실행 페이지는 운영 비용 문제로 현재 내려둔 상태입니다.
 
 ## 연구 경험
 
